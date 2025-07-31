@@ -1,0 +1,49 @@
+MEDICAL INVOICE
+==========================================
+
+PATIENT INFORMATION:
+Patient Name: John Smith
+Patient ID: P-2024-001
+Date of Birth: 05/15/1980
+
+HOSPITAL INFORMATION:
+Hospital: City General Medical Center
+Address: 123 Medical Drive, City, State 12345
+Phone: (555) 123-4567
+
+INVOICE DETAILS:
+Invoice Number: INV-2024-001
+Invoice Date: 01/15/2024
+Due Date: 02/15/2024
+
+SERVICES RENDERED:
+==========================================
+1. Emergency Room Consultation    $250.00
+2. Blood Test (Complete Panel)   $125.00
+3. X-Ray (Chest)                $180.00
+4. Medication (Prescription)     $45.00
+5. Lab Processing Fee            $35.00
+
+==========================================
+SUBTOTAL:                        $635.00
+TAX (5%):                       $31.75
+==========================================
+TOTAL AMOUNT:                    $666.75
+==========================================
+
+PAYMENT INFORMATION:
+Payment Method: Insurance
+Insurance Provider: Blue Cross Blue Shield
+Policy Number: BCBS-123456789
+
+NOTES:
+- All services were medically necessary
+- Patient was seen on emergency basis
+- Follow-up appointment recommended
+
+For questions about this invoice, please contact:
+Billing Department
+Phone: (555) 123-4568
+Email: billing@citygeneral.com
+
+Thank you for choosing City General Medical Center! 
